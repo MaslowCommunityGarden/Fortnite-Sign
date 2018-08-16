@@ -19,7 +19,7 @@ Check out the Instruction File for Easel Link and Basic Instructions!
 A few hours into the Cut and all is well!  You can see on the first O that theres some left over that got missed on what i think we just a catch in the chain but i wasnt in the room to be certain!
 </p>
 <p align="center">
-  <img src="https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0935.jpeg?raw=true">
+  <img src="https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0935.jpg?raw=true">
 </p>
 <p align="center">
 Maslow has finished the cut and i removed the supports,  now to begin the sanding tons of sanding.  Honestly it wasnt too bad
