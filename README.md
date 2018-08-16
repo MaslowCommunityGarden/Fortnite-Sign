@@ -12,17 +12,28 @@ My Son is huge into Fortnite as am i honestly!  Its a fun game we can play toget
 
 ## Photos
 ![alt text](https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0932.jpeg?raw=true "Mid Cut!!!")
+
 A few hours into the Cut and all is well!  You can see on the first O that theres some left over that got missed on what i think we just a catch in the chain but i wasnt in the room to be certain!
 
 ![alt text](https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0935.jpeg?raw=true "Finished Cutting")
+
 Maslow has finished the cut and i removed the supports,  now to begin the sanding tons of sanding.  Honestly it wasnt too bad
 
 ![alt text](https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0936.jpeg?raw=true "Finished Sanding & Mud")
+
 So one of the things i know about MDF is its lovely ability to take in water and then destroy itself!  So i read that lot of cabinet makings will seal the edges on MDF with some drywall Joint Compound.  So i began the lovely task of running a thin seal around all the cut edges of the sign.  This was all the edges so that was fun, and then i put some mud in the letters since i carved into the MDF and had lots of little fuzzy parts.  This mud created a nice seal and solved the problem of the fuzzies ruining the paint job.
 
 ![alt text](https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0937.jpeg?raw=true "First Paint!")
+
 First layer of Black Paint,  i thought i grabbed a picture of the layer of Kilz but i guess not.  Check out the video for a timelapse of all the 11 hours!
 
+![alt text](https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0942.jpeg?raw=true "First Purple Paint!")
 
+First purple coat has gone on!  I put another coat of purple and then ran a smooth roller over the edges with black to catch any of the purple that bled over.  I used a small brush to get the corners situated and then painted all the edges black.
+
+## Video Link
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NHVhrFNipMA
+" target="_blank"><img src="http://img.youtube.com/vi/NHVhrFNipMA/0.jpg" 
+alt="Fornite Sign - Maslow CNC" width="240" height="180" border="10" /></a>
 
 
