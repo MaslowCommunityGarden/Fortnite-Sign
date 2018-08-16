@@ -11,8 +11,10 @@ My Son is huge into Fortnite as am i honestly!  Its a fun game we can play toget
 
 
 ## Photos
-![alt text](https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0932.jpeg?raw=true "Mid Cut!!!")
-<img src="https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0932.jpeg?raw=true" />
+
+<p align="center">
+  <img src="https://github.com/MaslowCommunityGarden/Fortnite-Sign/blob/master/IMG_0932.jpeg?raw=true" />
+</p>
 <br>
 A few hours into the Cut and all is well!  You can see on the first O that theres some left over that got missed on what i think we just a catch in the chain but i wasnt in the room to be certain!
 
