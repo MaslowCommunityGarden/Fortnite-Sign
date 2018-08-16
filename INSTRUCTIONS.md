@@ -2,7 +2,7 @@
 # Fortnite Sign Instructions (Simple)
 
 1.  Open Easel here and make your changes for your specific machine setups as you like.  Note: i should have edited some of the tree points to make them wider!
-⋅⋅* [Inventables Easel Project](http://easel.inventables.com/projects/G5yLkRlMgFWuIes8Hz5fCg) 
+1a.  [Inventables Easel Project](http://easel.inventables.com/projects/G5yLkRlMgFWuIes8Hz5fCg) 
 2.  CUT!!!
 3.  Sand all the edges to get a nice smooth surface.  Make sure to sand both sides of the signs and both sides of edges.
 4.  Use drywall joint compound to seal all the edges and the cut letters.  Dont need anyhting thick just a thin layer.
